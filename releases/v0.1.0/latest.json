@@ -1,19 +1,19 @@
 {
-    "version":  "0.1.0",
-    "notes":  "## v0.1.0 â€” Initial release\n\n**New**\n- Multi-agent terminal workspace with split/grid layouts\n- Workspace setup wizard with CLI agent selection\n- Auto-updater and workspace persistence\n- Workspace colors, right-click actions, and F2 rename\n\n**Changed**\n- RelateSpace branding with new app icon and logo",
-    "pub_date":  "2026-07-05T21:13:23.795Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3RtYk42K3MvbjJ5RHhRWHFzdGpkQ0JHYmlaY3MwV1hCdkxHc3lqWlhUWkZRRTB4UEo0eFhNdkdXYVdLbzBzQzRKMm43WW5VbGFObFVYazcySitZNXFlVkkyR3pzMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg2MDAwCWZpbGU6UmVsYXRlU3BhY2VfMC4xLjBfeDY0LXNldHVwLmV4ZQozc1hsYXpXMWZVYnRNV0ZIdnJhZld2K2JJNytFNkRkRzE0Y2xxUEFCL2h0Y05WVHU5VDhOUWM5T2llM2dLdDVHOVg2aElseUZPTVVZeEtTUHBQckdCQT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.0/RelateSpace_0.1.0_x64-setup.exe"
-                                         },
-                      "windows-x86_64-nsis":  {
-                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3RtYk42K3MvbjJ5RHhRWHFzdGpkQ0JHYmlaY3MwV1hCdkxHc3lqWlhUWkZRRTB4UEo0eFhNdkdXYVdLbzBzQzRKMm43WW5VbGFObFVYazcySitZNXFlVkkyR3pzMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg2MDAwCWZpbGU6UmVsYXRlU3BhY2VfMC4xLjBfeDY0LXNldHVwLmV4ZQozc1hsYXpXMWZVYnRNV0ZIdnJhZld2K2JJNytFNkRkRzE0Y2xxUEFCL2h0Y05WVHU5VDhOUWM5T2llM2dLdDVHOVg2aElseUZPTVVZeEtTUHBQckdCQT09Cg==",
-                                                  "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.0/RelateSpace_0.1.0_x64-setup.exe"
-                                              },
-                      "windows-x86_64-msi":  {
-                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3RtYk42K3MvbitjUUNYS0liOWNVR1FWREF3RXZaYzBIMzlybldOQmRtOWV6OU1qeHpaRWF1em9CQVFEaFd0MGJ4YUJaTHBqdmpkTTVhVFNTR2FVc3pUZlhIQ2xQdkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg2MDAwCWZpbGU6UmVsYXRlU3BhY2VfMC4xLjBfeDY0X2VuLVVTLm1zaQpqQndDYVZteVpIcVd3ODRKdzZWTDBYd2E4V0dPSGRvMEFRSkdleXBGZjNXODV2UjJqbjZ6MGxScTVMb1NDc3hSSmJOVU9jTElXamc2cmh6K1dPQUNEdz09Cg==",
-                                                 "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.0/RelateSpace_0.1.0_x64_en-US.msi"
-                                             }
-                  }
+  "version": "0.1.0",
+  "notes": "## v0.1.0 - Initial release\n\n**New**\n- Multi-agent terminal workspace with split/grid layouts\n- Workspace setup wizard with CLI agent selection\n- Auto-updater and workspace persistence\n- Workspace colors, right-click actions, and F2 rename\n\n**Changed**\n- RelateSpace branding with new app icon and logo",
+  "pub_date": "2026-07-05T21:13:23.795Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3RtYk42K3MvbjJ5RHhRWHFzdGpkQ0JHYmlaY3MwV1hCdkxHc3lqWlhUWkZRRTB4UEo0eFhNdkdXYVdLbzBzQzRKMm43WW5VbGFObFVYazcySitZNXFlVkkyR3pzMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg2MDAwCWZpbGU6UmVsYXRlU3BhY2VfMC4xLjBfeDY0LXNldHVwLmV4ZQozc1hsYXpXMWZVYnRNV0ZIdnJhZld2K2JJNytFNkRkRzE0Y2xxUEFCL2h0Y05WVHU5VDhOUWM5T2llM2dLdDVHOVg2aElseUZPTVVZeEtTUHBQckdCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.0/RelateSpace_0.1.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3RtYk42K3MvbjJ5RHhRWHFzdGpkQ0JHYmlaY3MwV1hCdkxHc3lqWlhUWkZRRTB4UEo0eFhNdkdXYVdLbzBzQzRKMm43WW5VbGFObFVYazcySitZNXFlVkkyR3pzMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg2MDAwCWZpbGU6UmVsYXRlU3BhY2VfMC4xLjBfeDY0LXNldHVwLmV4ZQozc1hsYXpXMWZVYnRNV0ZIdnJhZld2K2JJNytFNkRkRzE0Y2xxUEFCL2h0Y05WVHU5VDhOUWM5T2llM2dLdDVHOVg2aElseUZPTVVZeEtTUHBQckdCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.0/RelateSpace_0.1.0_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3RtYk42K3MvbitjUUNYS0liOWNVR1FWREF3RXZaYzBIMzlybldOQmRtOWV6OU1qeHpaRWF1em9CQVFEaFd0MGJ4YUJaTHBqdmpkTTVhVFNTR2FVc3pUZlhIQ2xQdkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg2MDAwCWZpbGU6UmVsYXRlU3BhY2VfMC4xLjBfeDY0X2VuLVVTLm1zaQpqQndDYVZteVpIcVd3ODRKdzZWTDBYd2E4V0dPSGRvMEFRSkdleXBGZjNXODV2UjJqbjZ6MGxScTVMb1NDc3hSSmJOVU9jTElXamc2cmh6K1dPQUNEdz09Cg==",
+      "url": "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.0/RelateSpace_0.1.0_x64_en-US.msi"
+    }
+  }
 }
