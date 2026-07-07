@@ -1,18 +1,18 @@
 {
     "version":  "0.1.2",
-    "notes":  "## v0.1.2 - Terminal click hotfix\n\n**Fixed**\n- Terminals are clickable again â€” main content overlay no longer blocks pointer events\n- Terminal viewport receives clicks reliably above the focus ring layer",
-    "pub_date":  "2026-07-07T18:17:38.080Z",
+    "notes":  "## v0.1.2 - Terminal click hotfix\n\n**Fixed**\n- Terminals are clickable again ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â main content overlay no longer blocks pointer events\n- Terminal viewport receives clicks reliably above the focus ring layer",
+    "pub_date":  "2026-07-07T18:24:57.903Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "UNSIGNED_PLACEHOLDER_RE_RUN_publish-update.ps1",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3RtYk42K3MvbjJ5RHhRWHFzdGpkQ0JHYmlaY3MwV1hCdkxHc3lqWlhUWkZRRTB4UEo0eFhNdkdXYVdLbzBzQzRKMm43WW5VbGFObFVYazcySitZNXFlVkkyR3pzMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg2MDAwCWZpbGU6UmVsYXRlU3BhY2VfMC4xLjBfeDY0LXNldHVwLmV4ZQozc1hsYXpXMWZVYnRNV0ZIdnJhZld2K2JJNytFNkRkRzE0Y2xxUEFCL2h0Y05WVHU5VDhOUWM5T2llM2dLdDVHOVg2aElseUZPTVVZeEtTUHBQckdCQT09Cg==",
                                              "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.2/RelateSpace_0.1.2_x64-setup.exe"
                                          },
                       "windows-x86_64-nsis":  {
-                                                  "signature":  "UNSIGNED_PLACEHOLDER_RE_RUN_publish-update.ps1",
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3RtYk42K3MvbjJ5RHhRWHFzdGpkQ0JHYmlaY3MwV1hCdkxHc3lqWlhUWkZRRTB4UEo0eFhNdkdXYVdLbzBzQzRKMm43WW5VbGFObFVYazcySitZNXFlVkkyR3pzMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg2MDAwCWZpbGU6UmVsYXRlU3BhY2VfMC4xLjBfeDY0LXNldHVwLmV4ZQozc1hsYXpXMWZVYnRNV0ZIdnJhZld2K2JJNytFNkRkRzE0Y2xxUEFCL2h0Y05WVHU5VDhOUWM5T2llM2dLdDVHOVg2aElseUZPTVVZeEtTUHBQckdCQT09Cg==",
                                                   "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.2/RelateSpace_0.1.2_x64-setup.exe"
                                               },
                       "windows-x86_64-msi":  {
-                                                 "signature":  "UNSIGNED_PLACEHOLDER_RE_RUN_publish-update.ps1",
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3RtYk42K3MvbitjUUNYS0liOWNVR1FWREF3RXZaYzBIMzlybldOQmRtOWV6OU1qeHpaRWF1em9CQVFEaFd0MGJ4YUJaTHBqdmpkTTVhVFNTR2FVc3pUZlhIQ2xQdkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjg2MDAwCWZpbGU6UmVsYXRlU3BhY2VfMC4xLjBfeDY0X2VuLVVTLm1zaQpqQndDYVZteVpIcVd3ODRKdzZWTDBYd2E4V0dPSGRvMEFRSkdleXBGZjNXODV2UjJqbjZ6MGxScTVMb1NDc3hSSmJOVU9jTElXamc2cmh6K1dPQUNEdz09Cg==",
                                                  "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.2/RelateSpace_0.1.2_x64_en-US.msi"
                                              }
                   }
