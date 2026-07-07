@@ -1,0 +1,19 @@
+{
+    "version":  "0.1.2",
+    "notes":  "## v0.1.2 - Terminal click hotfix\n\n**Fixed**\n- Terminals are clickable again â€” main content overlay no longer blocks pointer events\n- Terminal viewport receives clicks reliably above the focus ring layer",
+    "pub_date":  "2026-07-07T18:17:38.080Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "UNSIGNED_PLACEHOLDER_RE_RUN_publish-update.ps1",
+                                             "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.2/RelateSpace_0.1.2_x64-setup.exe"
+                                         },
+                      "windows-x86_64-nsis":  {
+                                                  "signature":  "UNSIGNED_PLACEHOLDER_RE_RUN_publish-update.ps1",
+                                                  "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.2/RelateSpace_0.1.2_x64-setup.exe"
+                                              },
+                      "windows-x86_64-msi":  {
+                                                 "signature":  "UNSIGNED_PLACEHOLDER_RE_RUN_publish-update.ps1",
+                                                 "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.2/RelateSpace_0.1.2_x64_en-US.msi"
+                                             }
+                  }
+}
