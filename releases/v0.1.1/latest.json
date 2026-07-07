@@ -1,0 +1,19 @@
+{
+    "version":  "0.1.1",
+    "notes":  "## v0.1.1 - Terminal layout polish \u0026 workspace UX\n\n**New**\n- Custom title bar with minimize, maximize, close, and sidebar toggle\n- Collapsible sidebar â€” preference remembered between sessions\n- Drag-and-drop workspace reordering in the sidebar\n- Screenshot import â€” drop image files onto terminals to paste asset links into agent input\n\n**Changed**\n- Keyboard shortcuts only fire when RelateSpace is focused\n- Tighter terminal grid with minimal split gutters\n\n**Fixed**\n- Terminals fill panels edge-to-edge\n- Improved terminal dimension fitting",
+    "pub_date":  "2026-07-07T17:29:06.990Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "UNSIGNED_PLACEHOLDER_RE_RUN_publish-update.ps1",
+                                             "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.1/RelateSpace_0.1.1_x64-setup.exe"
+                                         },
+                      "windows-x86_64-nsis":  {
+                                                  "signature":  "UNSIGNED_PLACEHOLDER_RE_RUN_publish-update.ps1",
+                                                  "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.1/RelateSpace_0.1.1_x64-setup.exe"
+                                              },
+                      "windows-x86_64-msi":  {
+                                                 "signature":  "UNSIGNED_PLACEHOLDER_RE_RUN_publish-update.ps1",
+                                                 "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.1.1/RelateSpace_0.1.1_x64_en-US.msi"
+                                             }
+                  }
+}
