@@ -1,7 +1,7 @@
 {
     "version":  "0.1.3",
     "notes":  "## v0.1.3 - Updater signing fix\n\n**Fixed**\n- Auto-updater signatures restored with new signing key\n- Terminals remain clickable (0.1.2 hotfix included)\n\n**Changed**\n- Install v0.1.3 once from the website if you are on v0.1.0â€“v0.1.2; in-app updates work again after that",
-    "pub_date":  "2026-07-07T18:29:54.304Z",
+    "pub_date":  "2026-07-07T18:32:53.921Z",
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOGJ1K2YwanYveklnM09kbGkzY0FnWVhXc3dCakVqZFVrejJSc1NSRmVXeTlvZExkRElnTlgzMWtsSTg4Qnp6R21pTTNWUnc5SjVXaHFvd3Y1dlFWeTAxTlcwaXhjOUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDQ4OTg0CWZpbGU6UmVsYXRlU3BhY2VfMC4xLjNfeDY0LXNldHVwLmV4ZQo2REZuNzVwRFo0NGZPZFFNVWRFeGo5OStmNmRyQitQK295RFRxZ3JsbGpIOTNheVM3eVE3b0o3dmttVVdhNjZ0RUdpWE1BMzlVMHBFWU1ZeFAxRUhDdz09Cg==",
