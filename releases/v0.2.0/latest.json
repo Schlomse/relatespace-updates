@@ -1,0 +1,19 @@
+{
+    "version":  "0.2.0",
+    "notes":  "## v0.2.0 - Boards, Dev Tools \u0026 themes\n\n**New**\n- Kanban boards with drag-and-drop lists and cards, progress header, and board colors\n- Card detail panel with priorities, due dates, tags, and completion\n- Dev Tools panel with live web preview and GitHub activity per workspace\n- GitHub integration via GitHub CLI (PRs, issues, CI, commits)\n- Appearance themes (Dracula, Catppuccin, Nord, One Dark, Tokyo Night, and more)\n- Integrations settings section\n\n**Changed**\n- Sidebar split into Workspaces and Boards\n- Settings reorganized into Keyboard, Terminal, Appearance, Integrations, and System\n- Terminal portal roots and split-pane snap for stabler layouts\n\n**Fixed**\n- Terminal resize when Dev Tools panel opens or resizes\n- Empty workspace and board redirects after deleting the last item",
+    "pub_date":  "2026-07-09T00:01:27.585Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOGJ1K2YwanYvekFzVng1WTl4VEplZUwxU2htUmJuaEt6NW5ORVBOajZOYkczTm9VSnA2ZWRtTGhVZW95QlpkTFBGemo1a3dJMlRBenFuaE1zdDNmQWZvbkFQYitSSGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTU1Mjc2CWZpbGU6UmVsYXRlU3BhY2VfMC4yLjBfeDY0LXNldHVwLmV4ZQpLUHBuSHJQbTBMT3lPeEMxaDNHc3phV1NRbGE4a0x6clRBS0dkOEVmdGs3cmkraEVwbDV4aEVPcFZUMnNkSThDNjNRRnBWbEVIS2ZjNHFaN0c5VUtCZz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.2.0/RelateSpace_0.2.0_x64-setup.exe"
+                                         },
+                      "windows-x86_64-nsis":  {
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOGJ1K2YwanYvekFzVng1WTl4VEplZUwxU2htUmJuaEt6NW5ORVBOajZOYkczTm9VSnA2ZWRtTGhVZW95QlpkTFBGemo1a3dJMlRBenFuaE1zdDNmQWZvbkFQYitSSGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTU1Mjc2CWZpbGU6UmVsYXRlU3BhY2VfMC4yLjBfeDY0LXNldHVwLmV4ZQpLUHBuSHJQbTBMT3lPeEMxaDNHc3phV1NRbGE4a0x6clRBS0dkOEVmdGs3cmkraEVwbDV4aEVPcFZUMnNkSThDNjNRRnBWbEVIS2ZjNHFaN0c5VUtCZz09Cg==",
+                                                  "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.2.0/RelateSpace_0.2.0_x64-setup.exe"
+                                              },
+                      "windows-x86_64-msi":  {
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOGJ1K2YwanYvekFlVDhpL09zNkw5YzVVK3VDWi9MU0kzaGEyYjN6MWJXaUtqbzRMaWxEZlpDaUN1YXhPOWIyNW45VUo2SDNFbUVvTHBZK2tlcnZrclI4dm5zMjRiR3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTU1MjgyCWZpbGU6UmVsYXRlU3BhY2VfMC4yLjBfeDY0X2VuLVVTLm1zaQpNMUJHRFhPTEUvbHlaUHlDRzlEVkZMRWZVSVcrSGpwdC9JYlBsTkFLZ25JLzZtam8wOW1jYUJUbzh0elo5R3JpMHIxUG1pY2ZoM1psWXpyZG1hK3hCdz09Cg==",
+                                                 "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.2.0/RelateSpace_0.2.0_x64_en-US.msi"
+                                             }
+                  }
+}
