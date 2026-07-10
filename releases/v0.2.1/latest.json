@@ -1,0 +1,19 @@
+{
+    "version":  "0.2.1",
+    "notes":  "## v0.2.1 - Tray \u0026 sidebar polish\n\n**Fixed**\n- Closing to tray now hides the window from the taskbar instead of leaving a ghost entry\n- Board sidebar close buttons appear on hover like workspace items\n\n**Changed**\n- Board header simplified â€” color is still set at creation; redundant in-header picker removed",
+    "pub_date":  "2026-07-10T13:10:31.521Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOGJ1K2YwanYvekVmeUtmTm9DMkFpYTN6eGZCV3pGYVBrR1Y0NHhMNHh2dndDS1p5V2wwZ2hxTjB4L0JXb0JIdUN3Z2FiQUZLek0zNkRoajBuU3BXS0lqeUxrNTBmSGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjg5MDI0CWZpbGU6UmVsYXRlU3BhY2VfMC4yLjFfeDY0LXNldHVwLmV4ZQpRaGlXVXYyS2c0cmtWRkxKU3FQOUw3ZU1LbGZac3hwbTA1ek40ZjNSckhwdTFyK2RGZjQ0Z1pBaml5SEFHYk5UVTJxSzE1d0xub0xIV0tGZGRiM29DUT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.2.1/RelateSpace_0.2.1_x64-setup.exe"
+                                         },
+                      "windows-x86_64-nsis":  {
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOGJ1K2YwanYvekVmeUtmTm9DMkFpYTN6eGZCV3pGYVBrR1Y0NHhMNHh2dndDS1p5V2wwZ2hxTjB4L0JXb0JIdUN3Z2FiQUZLek0zNkRoajBuU3BXS0lqeUxrNTBmSGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjg5MDI0CWZpbGU6UmVsYXRlU3BhY2VfMC4yLjFfeDY0LXNldHVwLmV4ZQpRaGlXVXYyS2c0cmtWRkxKU3FQOUw3ZU1LbGZac3hwbTA1ek40ZjNSckhwdTFyK2RGZjQ0Z1pBaml5SEFHYk5UVTJxSzE1d0xub0xIV0tGZGRiM29DUT09Cg==",
+                                                  "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.2.1/RelateSpace_0.2.1_x64-setup.exe"
+                                              },
+                      "windows-x86_64-msi":  {
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOGJ1K2YwanYvekpRVGRPdG5iOGpZYldVajdiOWU4bmlQZFNmRytIWmljN3lBeFJaUXR2U09LRS9rZll2cDJDM3ErWkN6djV6MnJDVzZVbnc2Tk0wQUpYcFRhaE4xTGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjg5MDI1CWZpbGU6UmVsYXRlU3BhY2VfMC4yLjFfeDY0X2VuLVVTLm1zaQpZYTVKaExwUUpaL0F5M1BseEFHbW82VXNQNDVJRUQ5MnhDMkFIOStwMk96bHRNTGVudENkTHhhdk9USXIyNWQ3ZWFkdlpja3BlRk56SE00VzNRZjJCQT09Cg==",
+                                                 "url":  "https://raw.githubusercontent.com/Schlomse/relatespace-updates/main/releases/v0.2.1/RelateSpace_0.2.1_x64_en-US.msi"
+                                             }
+                  }
+}
